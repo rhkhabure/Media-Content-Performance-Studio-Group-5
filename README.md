@@ -16,6 +16,7 @@ Engagement metrics analysis
 Machine learning 
 Association rule mining
 ROI projections
+Mobile layout
 
 ## Dashboard Screenshot
 This is the homepage
@@ -24,6 +25,11 @@ This is the homepage
 
 Here is the engagement page
 <img width="1291" height="731" alt="image" src="https://github.com/user-attachments/assets/c5855dbb-9158-43d0-9435-ce076cc6da53" />
+
+## Top 3 insights
+The day of the week that exhibits the highest levels of engagement, measured by likes, shares, and comments, is Tuesday. Analysis indicates that two seasons, specifically spring and winter, experience minimal churn, characterised by a churn probability of less than 0.3. Conversely, the remaining two seasons demonstrate a moderate churn probability, ranging from greater than 0.5 to not exceeding 0.8. Channel growth experienced an upward trajectory over the first three years, reaching its zenith in 2018, while the retention rate remained stable from the onset of the COVID-19 pandemic until 2024.
+
+Factors influencing churn include the publishing season, with summer and fall showing the lowest retention rates. Additionally, the day of the week plays a significant role, as both Tuesday and Sunday are associated with heightened interaction with content. This increased engagement subsequently leads to a high revenue per 1,000 views, with Tuesday generating revenue of $8.04 and YouTube ad revenue amounting to $1,150. Furthermore, August is identified as the month with the least churn, attributed to the majority of school seasons being in recess during this period.
 
 
 
