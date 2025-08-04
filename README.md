@@ -18,6 +18,14 @@ Association rule mining
 ROI projections
 
 ## Dashboard Screenshot
+This is the homepage
+<img width="1280" height="721" alt="image" src="https://github.com/user-attachments/assets/b237d41a-ea2b-4739-9674-091b1fe413cd" />
+
+Here is the engagement page
+<img width="1291" height="731" alt="image" src="https://github.com/user-attachments/assets/c5855dbb-9158-43d0-9435-ce076cc6da53" />
+
+
+
 
 ## Public Dashboard
 <iframe title="Project dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMmUwZWIwNzktMTlmYy00N2VlLWFiNWMtMGI3MzExZDNhMjY5IiwidCI6IjE2ZDgzZWU2LTI1NGEtNDY5ZC1hNmNjLTU0ZTJjYTIzMTNlNyIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
