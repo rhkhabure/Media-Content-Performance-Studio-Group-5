@@ -19,7 +19,8 @@ ROI projections
 
 ## Dashboard Screenshot
 This is the homepage
-<img width="1280" height="721" alt="image" src="https://github.com/user-attachments/assets/b237d41a-ea2b-4739-9674-091b1fe413cd" />
+<img width="1281" height="720" alt="image" src="https://github.com/user-attachments/assets/12cc76dd-d030-4805-bd70-c28e13bcb25f" />
+
 
 Here is the engagement page
 <img width="1291" height="731" alt="image" src="https://github.com/user-attachments/assets/c5855dbb-9158-43d0-9435-ce076cc6da53" />
