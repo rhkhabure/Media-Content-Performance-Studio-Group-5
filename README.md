@@ -17,7 +17,10 @@ Machine learning
 Association rule mining
 ROI projections
 
+## Dashboard Screenshot
+
 ## Public Dashboard
+<iframe title="Project dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMmUwZWIwNzktMTlmYy00N2VlLWFiNWMtMGI3MzExZDNhMjY5IiwidCI6IjE2ZDgzZWU2LTI1NGEtNDY5ZC1hNmNjLTU0ZTJjYTIzMTNlNyIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
 ## Presentation Detail
-
+The dashboard compromises of a churn analysis page on the 'HomePage' and an engagement page for monitoring engagement and how it affects revenue over time. Both pages can be viewed on either a laptop or a mobile device.
