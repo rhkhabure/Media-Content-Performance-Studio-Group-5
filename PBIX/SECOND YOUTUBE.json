@@ -1,0 +1,15 @@
+{
+  "name": "YouTube Dark Theme",
+  "dataColors": ["#FF0000", "#FFFFFF", "#282828", "#606060", "#AAAAAA"],
+  "background": "#0F0F0F",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#FF0000",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "color": [{ "solid": { "color": "#FFFFFF" } }],
+        "background": [{ "solid": { "color": "#0F0F0F" } }]
+      }
+    }
+  }
+}
