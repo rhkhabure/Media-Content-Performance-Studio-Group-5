@@ -1,11 +1,9 @@
-# Media-Content-Performance-Studio-Group-5
-## Group Members
-Howard Muchaki - 668712
-Patrick Keegan - 668964
-
+# Media Content Performance Studio
 
 ## Project Summary
-A popular YouTuber approached our team seeking guidance on effectively managing their channel. Their primary goals were to minimise subscriber loss, enhance viewer retention, and maximise their return on investment (ROI) through both ad revenue and premium subscriptions. To achieve these objectives, we discussed strategies such as optimising content for engagement, analysing viewer demographics to tailor uploads, and employing effective marketing techniques to promote exclusive content for premium members. By focusing on fostering a loyal community and delivering consistent value, the YouTuber aims to build a sustainable and profitable channel while creating meaningful connections with their audience.
+A well-known YouTuber approached our team for guidance on effectively managing their channel. Their main goals were to minimize subscriber loss, enhance viewer retention, and maximize their return on investment (ROI) through ad revenue and premium subscriptions. 
+
+To achieve these objectives, we discussed several strategies, including optimizing content for engagement, analyzing viewer demographics to tailor uploads, and using effective marketing techniques to promote exclusive content for premium members. By focusing on building a loyal community and consistently delivering value, the YouTuber aims to create a sustainable and profitable channel while fostering meaningful connections with their audience.
 
 ## Key Deliveries
 Churn prediction variables
